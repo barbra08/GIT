@@ -1,2 +1,13 @@
 Zmiana01
 Zmiana07a
+
+naprawa błędów - hotFix-001
+
+oraz
+
+Dodano asystenta pomocy
+Uproszczenie interfejsu graficznego
+easierApp
+
+Zmiana08
+Zmiana09
